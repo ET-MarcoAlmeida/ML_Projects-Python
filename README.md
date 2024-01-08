@@ -1,2 +1,2 @@
 # ML_Projects
- machine learning training and study purpose
+ machine learning training and study purpose projects
