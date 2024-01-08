@@ -7,7 +7,7 @@
 1.  [Prediction: Car Price](Prediction_Price_Cars.ipynb)
     > Linear Regression, Lasso Regression, Matplotlib (Scatter Plot) | estimate car prices by analysing present price, kilometers driven, fuel type, transmission etc.
 
-2. [Customer Segmantation](Customer_Segmentation.ipynb)
+2. [Customer Segmentation](Customer_Segmentation.ipynb)
     > Unsupervised Learning, KMeans Clustering, Elbow Method, Matplotlib, Seaborn | Group customers based on their annual income and spending habits to make better business decisions.
 
 3.  [Prediction: Gold Price](Prediction_Gold_Price.ipynb)
