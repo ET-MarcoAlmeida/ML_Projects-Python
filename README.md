@@ -17,6 +17,4 @@
     > Support Vector Machine, Matplotlib, Seaborn (Count Plot) | predict wheather a loan is approved or not based on applicant income, loan amount, credit history, education etc.
 
 
-> [You can find the datasets here!][(https://github.com/ET-MarcoAlmeida/ML_Projects-Python/tree/main/data)]
->
-> > [You can find the datasets here!](https://github.com/ET-MarcoAlmeida/ML_Projects-Python/tree/main/data) 📄
+> [You can find the datasets here!](https://github.com/ET-MarcoAlmeida/ML_Projects-Python/tree/main/data) 📄
